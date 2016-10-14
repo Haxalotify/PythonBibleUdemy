@@ -1,3 +1,4 @@
 first_number = 1+1
 print(first_number)
-print(115+47)
+second_number = 115+47
+print(second_number)
